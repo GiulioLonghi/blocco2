@@ -1,5 +1,4 @@
-// The program reads  N numbers from the user and prints the sum
-
+//Ok manca parte palindromi
 #include <iostream>
 
 #define N 10 //così si scrive solo qui, N non è una variabile
